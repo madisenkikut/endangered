@@ -1,0 +1,75 @@
+/*
+/* Madisen Kikut
+/* Project due Wednesday, May 16th, 2018
+/* Endangered Species: Pangolin 
+*/
+
+
+/*The Universal Selector */
+	* {
+	
+	}
+
+*{ margin: 0;
+	padding:0;
+}
+
+
+header {
+border: 3px dashed black
+margin-right: 10px;
+}
+
+h1{
+font-family: Arial, Helvetica, sanc-serif; /*makes Arial the 1st font and Helvetica and San-serif the backups*/  
+color: red;
+font-size: 160%;
+background-color: White
+text-align: center;
+border-bottom:7px black solid; /* this makes the puts a line under the titler*/   
+margin-bottom:15px;
+    
+}
+/* this makes the h1 red and align in the center of the webpage*/   
+h2 {
+font-family: Arial, Helvetica, sanc-serif;
+color: green;
+font-size: 100%;
+background-color: White; padding: 8px;
+}
+/* this makes h2 green*/
+
+p {
+font-family: Arial, Helvetica, sanc-serif;
+font-size: 70%;
+padding:8px;
+
+
+}
+body {
+width: 950px;
+margin: auto;
+}
+img {
+	border: 3px solid black;
+}
+
+h3 {
+font-size: 50%;
+text-align: right
+padding: 88px;
+}
+
+a:link {
+color: blue; } 
+/*Turns the links a different color*/
+a:hover, a:focus {
+color: purple;
+ }
+
+footer {
+color: red;
+border-top: 5px solid red;
+margin: 80px;
+font-size: 80%;
+}
